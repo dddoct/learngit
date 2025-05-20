@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Really Successful?
 Yes.
+Creating a new branch is quick.
